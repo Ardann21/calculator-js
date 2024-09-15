@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+}
+
+button{
+padding: 23px 30px;
+border-radius: 100px;
+background-color: rgb(51,51,51);
+color: white;
+font-size: 18px;
+border: none;
+margin: 4px;
+}
+
+.p-info{
+    color: white;
+    font-size: 30px;
+    
+    width: 300px;
+    
+    margin-left: 7px;
+}
+
+.orange{
+    background-color: rgb(254,160,10);
+}
+.screen{
+    background-color: rgb(58, 58, 58);
+    
+    width: 310px;
+    border-radius: 15px;
+}
